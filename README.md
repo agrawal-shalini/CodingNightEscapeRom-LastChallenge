@@ -29,10 +29,10 @@ You need to find the lost artifact based on below criteria
 - The lost artifact has high significance but if multiple artifacts are lost then an artifact with high value but low or medium significance can be the lost artifact
 
 # Output:
-Scenaro 1:
+Scenario 1:
 - Location: Afghanistan Passcode: 6547
 
-Scenaro 2:
+Scenario 2:
 - Location: Paris Passcode: 7658
 
 **Hint:
